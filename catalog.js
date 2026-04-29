@@ -1,7 +1,7 @@
 const items = [
   {
     name: "Logitech G923 Gaming TRUE FORCE Racing Wheel",
-    description: "Logitech G923 Gaming TRUE FORCE racing wheel with pedals for PS5, PS4 & PC. Condition: Used, but in great condition. No issues, works perfectly. Comes with original box and all accessories.",
+    description: "Racing wheel with pedals for PS5, PS4 & PC. Used, but in great condition. Works perfectly. Comes with original box and all accessories.",
     price: 120,
     currency: "€",
     image: "images/wheel.JPG",
@@ -19,7 +19,7 @@ const items = [
   },
   {
     name: "Black Table",
-    description: "Lenovo Legion | 27 Inch QHD Gaming Monitor | 2560 x 1440 | 180Hz | USB 3.2 | USB-C | HDMI | DisplayPort | AMD FreeSync | Speaker",
+    description: "Black table | 108x60cm | Modern design | Sturdy construction",
     price: 50,
     currency: "€",
     image: "images/table.JPG",
@@ -91,7 +91,7 @@ const items = [
   },
   {
     name: "Black Table",
-    description: "Black Table 120x60cm | Modern Design | Sturdy Construction | Spacious Surface",
+    description: "Black Table 100x60cm | Modern Design | Sturdy Construction | Spacious Surface",
     price: 30,
     currency: "€",
     image: "images/table2.JPG",
@@ -113,8 +113,8 @@ const items = [
     price: 90,
     currency: "€",
     image: "images/cleaner.JPG",
-    storeUrl: "",
-    storeName: "N/A",
+    storeUrl: "https://www.mi.com/global/product/xiaomi-robot-vacuum-s20-plus/",
+    storeName: "mi.com",
   },
   {
     name: "Stationary Bicycle",
