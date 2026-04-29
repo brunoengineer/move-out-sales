@@ -20,7 +20,7 @@ const items = [
   {
     name: "Black Table",
     description: "Black table | 108x60cm | Modern design | Sturdy construction",
-    price: 50,
+    price: 40,
     currency: "€",
     image: "images/table.JPG",
     storeUrl: "https://www.amazon.de/-/en/Lenovo-Y27h-30-Response-DisplayPort-FreeSync/dp/B0BCQHS87X",
@@ -32,13 +32,13 @@ const items = [
     price: 320,
     currency: "€",
     image: "images/ps5.JPG",
-    storeUrl: "amazon.de/-/en/PlayStation-CFI-1216B-Playstation-Digital-Konsole",
+    storeUrl: "https://www.amazon.de/-/en/PlayStation-CFI-1216B-Playstation-Digital-Konsole/dp/B08H98GVK8/",
     storeName: "amazon.de",
   },
   {
     name: "Pink Gaming Chair",
-    description: "Cougar Armor Elite Eva Pink Gaming Chair CGR-ELI-PNB. Condition: Used, but in great condition. No issues, works perfectly.",
-    price: 70,
+    description: "Cougar Armor Elite Eva Pink Gaming Chair CGR-ELI-PNB. Used, but in good condition. No issues, works perfectly.",
+    price: 50,
     currency: "€",
     image: "images/pink-chair.JPG",
     storeUrl: "https://arvutitark.ee/en/home-and-beauty/manguritoolid-ja-lauad/manguritoolid/cougar-gaming-chair-armor-elite-eva-pink-cgr-eli-pnb-1317885",
@@ -74,7 +74,7 @@ const items = [
   {
     name: "Black Chair Legend",
     description: "Black Chair Legend | Ergonomic Design | Adjustable Height | Comfortable Seating",
-    price: 60,
+    price: 40,
     currency: "€",
     image: "images/black-chair.JPG",
     storeUrl: "https://www.jysk.ee/hallum-manguritool-jalatoega-126625-ee.html",
@@ -83,7 +83,7 @@ const items = [
   {
     name: "Black Table",
     description: "Black Table 130x70cm | Modern Design | Sturdy Construction | Spacious Surface | Adjustable Height",
-    price: 70,
+    price: 60,
     currency: "€",
     image: "images/big-table.JPG",
     storeUrl: "https://www.jysk.ee/lundtoft-ohusurvel-reguleeritava-korgusega-laud-131931-ee.html?___store=ee_et",
