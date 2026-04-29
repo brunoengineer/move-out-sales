@@ -103,7 +103,7 @@ const items = [
     description: "Black drawer unit | Modern Design | Metal",
     price: 20,
     currency: "€",
-    image: "images/drawer.JPG",
+    image: "images/drawer.jpg",
     storeUrl: "https://www.jysk.ee/klintholm-sahtliplokk-131929-ee.html",
     storeName: "jysk.ee",
   },
