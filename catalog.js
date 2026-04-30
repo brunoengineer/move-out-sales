@@ -7,6 +7,7 @@ const items = [
     image: "images/wheel.JPG",
     storeUrl: "https://www.amazon.de/-/en/Logitech-feedback-response-leather-steering/dp/B07W7KFFFF?th=1",
     storeName: "amazon.de",
+    reserved: true,
   },
   {
     name: "Monitor LG UltraWide 34''",
