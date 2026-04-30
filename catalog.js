@@ -25,6 +25,7 @@ const items = [
     image: "images/table.JPG",
     storeUrl: "https://www.amazon.de/-/en/Lenovo-Y27h-30-Response-DisplayPort-FreeSync/dp/B0BCQHS87X",
     storeName: "amazon.de",
+    reserved: true,
   },
   {
     name: "PlayStation 5",
@@ -52,6 +53,7 @@ const items = [
     image: "images/pc.JPG",
     storeUrl: "",
     storeName: "N/A",
+    reserved: true,
   },
   {
     name: "Lenovo Monitor 27''",
@@ -71,6 +73,7 @@ const items = [
     image: "images/gamer-monitor.JPG",
     storeUrl: "https://www.amazon.de/-/en/Lenovo-Y27h-30-Response-DisplayPort-FreeSync/dp/B0BCQHS87X",
     storeName: "amazon.de",
+    reserved: true,
   },
   {
     name: "Black Chair Legend",
@@ -80,6 +83,7 @@ const items = [
     image: "images/black-chair.JPG",
     storeUrl: "https://www.jysk.ee/hallum-manguritool-jalatoega-126625-ee.html",
     storeName: "jysk.ee",
+    reserved: true,
   },
   {
     name: "Black Table",
