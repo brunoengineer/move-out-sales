@@ -61,6 +61,7 @@ const items = [
     image: "images/monitor2.JPG",
     storeUrl: "https://www.amazon.de/-/en/Lenovo-Monitor-Response-FreeSync-Anti-Glare/dp/B0BT7RW85Y",
     storeName: "amazon.de",
+    reserved: true,
   },
   {
     name: "Gaming Monitor Legion 27h",
