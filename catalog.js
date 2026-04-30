@@ -64,7 +64,7 @@ const items = [
     reserved: true,
   },
   {
-    name: "Gaming Monitor Legion 27h",
+    name: "Gaming Monitor Legion 27''",
     description: "Lenovo Legion | 27 Inch QHD Gaming Monitor | 2560 x 1440 | 180Hz | USB 3.2 | USB-C | HDMI | DisplayPort | AMD FreeSync | Speaker",
     price: 90,
     currency: "€",
