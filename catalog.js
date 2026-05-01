@@ -37,13 +37,14 @@ const items = [
     reserved: true,
   },
   {
-    name: "PlayStation 5",
+    name: "PlayStation 5 + 3 Controllers",
     description: "PlayStation 5 Digital Edition Console | 825GB SSD | 4K Gaming | 3 DualSense Wireless Controller",
     price: 320,
     currency: "€",
     image: "images/ps5.JPG",
     storeUrl: "https://www.amazon.de/-/en/PlayStation-CFI-1216B-Playstation-Digital-Konsole/dp/B08H98GVK8/",
     storeName: "amazon.de",
+    reserved: true,
   },
   {
     name: "Pink Gaming Chair",
