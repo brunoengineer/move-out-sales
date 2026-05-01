@@ -1,5 +1,14 @@
 const items = [
   {
+    name: "POCO X6 Pro - Yellow",
+    description: "POCO X6 Pro - Yellow back | 8GB RAM | 256GB Storage",
+    price: 80,
+    currency: "€",
+    image: "images/poco.jpg",
+    storeUrl: "https://www.hind.ee/p/poco-x6-pro/",
+    storeName: "hind.ee",
+  },
+  {
     name: "Robot Vacuum Cleaner",
     description: "Xiaomi Robot Vacuum S20+ | Mopping and Vacuuming | Efficient Cleaning",
     price: 90,
