@@ -34,6 +34,7 @@ const items = [
     image: "images/uw-monitor.JPG",
     storeUrl: "https://www.lg.com/br/monitores/monitores-ultrawide/34wp550-b/",
     storeName: "lg.com",
+    reserved: true,
   },
   {
     name: "Black Table",
@@ -72,6 +73,7 @@ const items = [
     image: "images/big-table.JPG",
     storeUrl: "https://www.jysk.ee/lundtoft-ohusurvel-reguleeritava-korgusega-laud-131931-ee.html?___store=ee_et",
     storeName: "jysk.ee",
+    reserved: true,
   },
   {
     name: "Black Table",
@@ -81,6 +83,7 @@ const items = [
     image: "images/table2.JPG",
     storeUrl: "https://arvutitark.ee/en/home-and-beauty/manguritoolid-ja-lauad/mangurilauad/gaming-desk-huzaro-hero-18-black-1240124",
     storeName: "arvutitark.ee",
+    reserved: true,
   },
   {
     name: "PC Gamer",
