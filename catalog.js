@@ -16,6 +16,16 @@ const items = [
     image: "images/cleaner.JPG",
     storeUrl: "https://www.mi.com/global/product/xiaomi-robot-vacuum-s20-plus/specs/",
     storeName: "mi.com",
+    reserved: true,
+  },
+  {
+    name: "Pink Gaming Chair",
+    description: "Cougar Armor Elite Eva Pink Gaming Chair CGR-ELI-PNB. Used, but in good condition. No issues, works perfectly.",
+    price: 50,
+    currency: "€",
+    image: "images/pink-chair.JPG",
+    storeUrl: "https://arvutitark.ee/en/home-and-beauty/manguritoolid-ja-lauad/manguritoolid/cougar-gaming-chair-armor-elite-eva-pink-cgr-eli-pnb-1317885",
+    storeName: "arvutitark.ee",
   },
   {
     name: "Stationary Bicycle",
@@ -55,15 +65,6 @@ const items = [
     storeUrl: "https://www.amazon.de/-/en/PlayStation-CFI-1216B-Playstation-Digital-Konsole/dp/B08H98GVK8/",
     storeName: "amazon.de",
     reserved: true,
-  },
-  {
-    name: "Pink Gaming Chair",
-    description: "Cougar Armor Elite Eva Pink Gaming Chair CGR-ELI-PNB. Used, but in good condition. No issues, works perfectly.",
-    price: 50,
-    currency: "€",
-    image: "images/pink-chair.JPG",
-    storeUrl: "https://arvutitark.ee/en/home-and-beauty/manguritoolid-ja-lauad/manguritoolid/cougar-gaming-chair-armor-elite-eva-pink-cgr-eli-pnb-1317885",
-    storeName: "arvutitark.ee",
   },
   {
     name: "Black Table",
